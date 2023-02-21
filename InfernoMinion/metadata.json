@@ -1,0 +1,8 @@
+{
+    "name": "InfernoMinion",
+    "author": "T_Bone222",
+    "description": "Mod moment",
+    "entry": "index.js",
+    "version": "0.1",
+    "requires": ["PogData", "requestV2", "PromiseV2"]
+}
